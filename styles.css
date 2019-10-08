@@ -1,6 +1,15 @@
 h1{
    text-align: center;
    font-family:'Dancing Scipt',cursive;
+   color:#a68324;
+   font-size:50px;
+   background-color:#2f15d6;
+}
+h2{
+    color:white;
+    background-color:purple;
+    border:solid;
+    font-size:40px;
 }
 img{
     width:500px;
@@ -12,11 +21,15 @@ img{
     
 p{
     text-align:center;
+    color:black;
+    background-color:gold;
+   font-size:40px;
+    
 }
 body{
-    color:orange;
-    background-color: blue;
+    background-image: url("https://cdn.shopify.com/s/files/1/0277/5331/files/versailles-court.jpg?v=1546410594");
 }
-title{
-    font-family: 'Open Sans Condensed', sans-serif;
+ul{
+    background-color:gold;
+    font-size:40px;
 }
